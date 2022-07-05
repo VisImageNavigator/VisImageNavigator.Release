@@ -8,7 +8,7 @@ The vispubData30_updated_3.0.8.csv is from https://ieee-dataport.org/open-access
 
 If you use this dataset above we would appreciate a citation. 
 
-Jian Chen, Meng Ling, Rui Li, Petra Isenberg, Tobias Isenberg, Michael Sedlmair, Torsten Möller, Robert S. Laramee, Han-Wei Shen, Katharina Wünsche, and Qiru Wang. VIS30K: A Collection of Figures and Tables from IEEE Visualization Conference Publications. IEEE Transactions on Visualization and Computer Graphics (2021)
+Jian Chen, Meng Ling, Rui Li, Petra Isenberg, Tobias Isenberg, Michael Sedlmair, Torsten Möller, Robert S. Laramee, Han-Wei Shen, Katharina Wünsche, and Qiru Wang. VIS30K: A Collection of Figures and Tables from IEEE Visualization Conference Publications. IEEE Transactions on Visualization and Computer Graphics, 27(9):3826-3833, January 2021. (doi: 10.1109/TVCG.2021.3054916)
 
 
 

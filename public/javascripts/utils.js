@@ -1,7 +1,8 @@
 /**
- * Autocomplete form
+ * Autocomplete form, used for the keyword searching
  * The code is adapted from https://www.w3schools.com/howto/howto_js_autocomplete.asp.
  */
+
 
 /**
  * auto complete of input search box

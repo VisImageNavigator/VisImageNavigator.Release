@@ -1,10 +1,13 @@
 /*
-* VisImageNavigator V3.1 (https://github.com/VisImageNavigator/VisImageNavigator.Release)
+* VisImageNavigator V1.0 (https://github.com/VisImageNavigator/VisImageNavigator.Release)
 * Copyright 2020-2022 Rui Li, Department of Computer Science and Engineering, The Ohio State University.
 * Licensed under MIT (https://github.com/VisImageNavigator/VisImageNavigator.Release/blob/main/LICENSE)
 * To cite this work: Jian Chen, Meng Ling, Rui Li, Petra Isenberg, Tobias Isenberg, Michael Sedlmair, Torsten Möller, Robert S. Laramee, Han-Wei Shen, Katharina Wünsche, and Qiru Wang. VIS30K: A Collection of Figures and Tables from IEEE Visualization Conference Publications. IEEE Transactions on Visualization and Computer Graphics (2021).
 */
 
+/**
+ * Filter the dataset by searching conditions
+ */
 
 var figureIndex = [-1, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 50, 51, 100];
 var tableIndex = [16];
